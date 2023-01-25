@@ -14,12 +14,29 @@ My name is Rafał Bierzanek.
 # Tech skills
   - SQL
   - Software testing
-  - Creating test cases
+  - Create scenarios and test cases
   - Reporting bugs
+  - ISTQB FL
+  - HTML
+  - CSS
+  - JAVA SCRIPT
+  - React
+  - VS Code
+  - GIT
+  - Jira
+  - Postman API
  
 # Courses
+  - Training "ISTQB Foundation Level" 
+  - Training "Profession Tester" testerzy .pl
+  - UX Designer | Future Collars
+  - Fronted Developer | Future Collars
+  - Wordpress with SEO positioning | GO WORK
+  - Udemy Praktyczny kurs testowania oprogramowania Rafał Podraża
+  - Udemy [2023] Programowanie w JavaScript od Zera do Mastera
+  - Udemy React od podstaw Samuraj oprogramowania
+  - 
 
-# Books
 
 # Groups on Facebook
 
