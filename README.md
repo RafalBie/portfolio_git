@@ -11,6 +11,7 @@ My name is Rafał Bierzanek.
   - Github
   - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
   - [Jira](https://www.atlassian.com/software/jira0),
+  - [Pairwise] https://pairwise.yuuniworks.com/
 # Tech skills
   - SQL
   - Software testing
@@ -47,6 +48,7 @@ My name is Rafał Bierzanek.
   - remigiuszbednarczyk.pl
   - testerka.pl
   - testuj.pl
+  - Jak nauczyć się programowania Kamil Brzeziński
 # My test case examples
   - [Test cases for app Resell Tickets] (https://drive.google.com/drive/u/0/folders/1TQjMt5jDPnTa05OXwcz00KT81Zj01m0w)
  
