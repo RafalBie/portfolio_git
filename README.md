@@ -45,10 +45,10 @@ My name is Rafał Bierzanek.
   - Testowanie oprogramowania - Materiały|Porady 
 # Recommended blogs
   - testerzy.pl
-  - remigiuszbednarczyk.pl
   - testerka.pl
   - testuj.pl
   - Jak nauczyć się programowania Kamil Brzeziński
+  - Clever Programmer 
 # My test case examples
   - [Test cases for app Resell Tickets] (https://drive.google.com/drive/u/0/folders/1TQjMt5jDPnTa05OXwcz00KT81Zj01m0w)
  
