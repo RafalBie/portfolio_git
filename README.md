@@ -26,6 +26,8 @@ My name is Rafał Bierzanek.
   - GIT
   - Jira
   - Postman API
+  - DevTools Chrome 
+  
  
 # Courses
   - Training "ISTQB Foundation Level" 
