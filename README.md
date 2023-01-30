@@ -5,13 +5,12 @@ My Tester's Portfolio
 My name is Rafał Bierzanek. 
 # Tools
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
-  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
-  - [Pic Pick](https://picpick.app/pl/) - Screen capture tool
   - Github
-  - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
-  - [Jira](https://www.atlassian.com/software/jira0),
+  - [BlazeMeter](https://www.blazemeter.com/) 
+  - [Jira](https://www.atlassian.com/software/jira0)
   - [Pairwise] https://pairwise.yuuniworks.com/
+  - VS Code
+  
 # Tech skills
   - SQL
   - Software testing
@@ -38,7 +37,7 @@ My name is Rafał Bierzanek.
   - Udemy Praktyczny kurs testowania oprogramowania Rafał Podraża
   - Udemy [2023] Programowanie w JavaScript od Zera do Mastera
   - Udemy React od podstaw Samuraj oprogramowania
-  - 
+ 
 
 
 # Groups on Facebook
