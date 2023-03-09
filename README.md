@@ -24,6 +24,7 @@ My name is Rafał Bierzanek.
   - VS Code
   - GIT
   - Jira
+  - Confluence
   - Postman API
   - DevTools Chrome 
   
