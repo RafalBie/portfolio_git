@@ -6,7 +6,6 @@ My name is Rafał Bierzanek.
 # Tools
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - Github
-  - [BlazeMeter](https://www.blazemeter.com/) 
   - [Jira](https://www.atlassian.com/software/jira0)
   - [Pairwise] https://pairwise.yuuniworks.com/
   - VS Code
